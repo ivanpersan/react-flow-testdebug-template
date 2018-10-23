@@ -6,6 +6,6 @@ The launch.json VS Code file is configured to launch and debug Jest tests, total
 
 Flow is configured to not check node_modules folder.
 
-It's great to init a new project without create-react-app installing. You only have to restore npm packages and update whatever you want later.
+It's great to init a new project without create-react-app and flow installation. You only have to restore npm packages and update whatever you want later.
 
 ![Alt text](readme/debugging.jpg?raw=true "Title")
