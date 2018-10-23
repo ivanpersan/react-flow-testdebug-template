@@ -17,7 +17,7 @@ export class Square extends React.Component<Props, State> {
   
     render() {
         var vartest1: string = "stringtest";
-        var vartest2: string = yes + 1;
+        var vartest2: string = vartest1 + 1;
       return (
         <button
           className="square"
